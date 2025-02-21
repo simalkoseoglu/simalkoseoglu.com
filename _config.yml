@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Simal Koseoglu"
-  pronouns         : "she/her"  
+  pronouns         : # "she/her"  
   bio              : "PhD Student in Economics"
   location         : "Munich"
   employer         : "LMU Munich"
