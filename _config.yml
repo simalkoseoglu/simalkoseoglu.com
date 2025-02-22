@@ -157,6 +157,8 @@ include:
   - .htaccess
   - _pages
   - files
+include: ["index.html"]
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
