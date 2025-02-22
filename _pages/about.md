@@ -22,6 +22,5 @@ This paper examines how gender norms influence the gender gap in volunteerism am
 ## Contact Information
 
 - **Email:** [simal.koseoglu@econ.lmu.de](mailto:simal.koseoglu@econ.lmu.de)
-- **Phone:** +49 178 4030233
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/koseoglusimal/)
 
