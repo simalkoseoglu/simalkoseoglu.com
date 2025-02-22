@@ -3,14 +3,14 @@
 
    <!-- Homepage -->
    <url>
-      <loc>https://simalkoseoglu.github.io/</loc>
+      <loc>https://simalkoseoglu.com/</loc>
       <lastmod>2024-02-22</lastmod>
       <priority>1.0</priority>
    </url>
   
    <!-- CV -->
    <url>
-      <loc>https://simalkoseoglu.github.io/cv</loc>
+      <loc>https://simalkoseoglu.com/cv</loc>
       <lastmod>2024-02-22</lastmod>
       <priority>0.8</priority>
    </url>
