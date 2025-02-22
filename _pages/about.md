@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Economics at [LMU Munich](https://www.en.econ.lmu.de/index.html). I received my Bachelor’s degree from [Galatasaray University](https://www.gsu.edu.tr/en) and my Master’s degree from [Bonn University](https://www.uni-bonn.de/en).
+I am a PhD student in Economics at [LMU Munich](https://www.en.econ.lmu.de/index.html). I received my Bachelor’s degree from [Galatasaray University](https://www.gsu.edu.tr/en) and my Master’s degree from [University of Bonn](https://www.uni-bonn.de/en).
 
 ## Research Focus
 
