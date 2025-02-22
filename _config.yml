@@ -13,7 +13,7 @@ title                    : "Simal Koseoglu"
 title_separator          : "-"
 name                     : &name "Simal Koseoglu"
 description              : &description "PhD Student in Economics"
-url                      : "https://simalkoseoglu.github.io"
+url                      : "https://simalkoseoglu.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "simalkoseoglu.github.io"
 
