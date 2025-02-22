@@ -14,55 +14,7 @@
       <lastmod>2024-02-22</lastmod>
       <priority>0.8</priority>
    </url>
-   <!-- Research Page -->
-   <url>
-      <loc>https://simalkoseoglu.github.io/research</loc>
-      <lastmod>2024-02-22</lastmod>
-      <priority>0.8</priority>
-   </url>
-
-   <!-- Publications Page -->
-   <url>
-      <loc>https://simalkoseoglu.github.io/publications</loc>
-      <lastmod>2024-02-22</lastmod>
-      <priority>0.8</priority>
-   </url>
-
-   <!-- Contact Page -->
-   <url>
-      <loc>https://simalkoseoglu.github.io/contact</loc>
-      <lastmod>2024-02-22</lastmod>
-      <priority>0.7</priority>
-   </url>
-
-   <!-- Sitemap Page (Reference) -->
-   <url>
-      <loc>https://simalkoseoglu.github.io/sitemap</loc>
-      <lastmod>2024-02-22</lastmod>
-      <priority>0.5</priority>
-   </url>
-
-   <!-- Archive Pages (Based on Markdown) -->
-   <url>
-      <loc>https://simalkoseoglu.github.io/archive</loc>
-      <lastmod>2024-02-22</lastmod>
-      <priority>0.6</priority>
-   </url>
-
-   <!-- Blog Posts (If You Have Any) -->
-   <url>
-      <loc>https://simalkoseoglu.github.io/blog</loc>
-      <lastmod>2024-02-22</lastmod>
-      <priority>0.6</priority>
-   </url>
-
-   <!-- Individual Blog Posts (If they exist) -->
-   <url>
-      <loc>https://simalkoseoglu.github.io/posts</loc>
-      <lastmod>2024-02-22</lastmod>
-      <priority>0.5</priority>
-   </url>
-
+  
  
 
 </urlset>
