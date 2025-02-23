@@ -11,7 +11,7 @@ I am a PhD student in Economics at [LMU Munich](https://www.en.econ.lmu.de/index
 
 ## Research Focus
 
-I specialize in **Labor and Personnel Economics**, exploring how firm dynamics shape employment, wages, and inequality. My research investigates how organizations evolve, adapt, and influence labor market outcomes by leveraging large-scale datasets. I joined the Economics department at LMU in 2024 as a PhD student, and my work aims to uncover the interactions between firms and workers.
+I specialize in **Labour and Personnel Economics**, exploring how firm dynamics shape employment, wages, and inequality. My research investigates how organizations evolve, adapt, and influence labor market outcomes by leveraging large-scale datasets. I joined the Economics department at LMU in 2024 as a PhD student, and my work aims to uncover the interactions between firms and workers.
 
 ## Work in Progress
 
