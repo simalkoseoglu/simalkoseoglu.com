@@ -32,8 +32,7 @@ upper end persist.
 
 ## Work in Progress
 
-### Reducing Information Asymmetries to Improve Employee Retention: A Randomized Hiring Intervention in Manufacturing
-Firms
+### Reducing Information Asymmetries to Improve Employee Retention: A Randomized Hiring Intervention in Manufacturing Firms
 
 This project investigates whether reducing information asymmetries in the hiring process can improve
 employee retention in blue-collar manufacturing jobs. I implement a randomized controlled trial in Turkish heavy machinery
