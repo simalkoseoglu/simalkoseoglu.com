@@ -7,6 +7,16 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H8Q3PPW08B"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H8Q3PPW08B');
+</script>
+
 I am a PhD student in Economics at [LMU Munich](https://www.en.econ.lmu.de/index.html). I received my Bachelor’s degree from [Galatasaray University](https://www.gsu.edu.tr/en) and my Master’s degree from [University of Bonn](https://www.uni-bonn.de/en).
 
 ## Research Focus
